@@ -1,0 +1,14 @@
+{
+  "app_name": "Monav",
+  "latest_version": "0.0.1",
+  "minimum_version": "0.0.1",
+  "force_update": false,
+  "apk_url": "",
+  "release_date": "2026-06-05",
+  "notes": [
+    "Primera beta pública de Monav",
+    "Asistente Monac integrado",
+    "Sistema de incidentes conectado",
+    "Actualización mediante GitHub Releases"
+  ]
+}
