@@ -1,14 +1,16 @@
 {
-  "app_name": "Monav",
-  "latest_version": "1.0.1",
+  "app_name": "Monac",
+  "latest_version": "1.0.3",
   "minimum_version": "1.0.0",
   "force_update": false,
-  "apk_url": "https://github.com/Sekirosky909/Monac-Updates/releases/download/v1.0.1/Monac-v1.01-beta.apk",
-  "release_date": "2026-06-06",
+  "apk_url": "https://github.com/Sekirosky909/Monac-Updates/releases/download/v1.0.3/Monac.apk",
+  "release_date": "2026-06-12",
   "notes": [
     "Sistema de reportes de usuarios",
     "Eventos visibles en el mapa",
     "Asistente integrado con eventos",
+    "Historial del asistente",
+    "Mapa de influencia de incidentes",
     "Mejoras de navegación",
     "Corrección de errores"
   ]
